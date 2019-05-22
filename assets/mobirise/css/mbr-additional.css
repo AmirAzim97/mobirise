@@ -2101,7 +2101,7 @@ body {
 .cid-rpKK9qiNZF {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-rpKK9qiNZF h4 {
   font-weight: 500;
@@ -2116,7 +2116,7 @@ body {
 .cid-rpKK9qiNZF .card-img {
   border-radius: 0;
   padding: 2rem 2rem 0 2rem;
-  background-color: #e4d295;
+  background-color: #efefef;
 }
 .cid-rpKK9qiNZF .card-img span {
   font-size: 100px;
@@ -2124,8 +2124,8 @@ body {
 }
 .cid-rpKK9qiNZF .card-box {
   padding-bottom: 2rem;
-  background-color: #e4d295;
-  background: linear-gradient(#e4d295, transparent);
+  background-color: #efefef;
+  background: linear-gradient(#efefef, transparent);
 }
 .cid-rpKK9qiNZF .card-box .card-title {
   margin: 0;
