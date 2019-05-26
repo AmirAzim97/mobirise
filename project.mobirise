@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "THIRD",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -774,7 +774,8 @@
               "font-size": "18px"
             },
             "H4": {
-              "color": "#b70806"
+              "color": "#b70806",
+              "font-size": "23px"
             }
           }
         },
@@ -984,7 +985,7 @@
           "_anchor": "features3-11",
           "_styles": {
             "H4": {
-              "font-size": "20px",
+              "font-size": "23px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#b70806"
@@ -1120,7 +1121,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "H4": {
-              "color": "#b70806"
+              "color": "#b70806",
+              "font-size": "23px"
             }
           }
         },
