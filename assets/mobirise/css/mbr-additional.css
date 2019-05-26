@@ -562,6 +562,9 @@ h6,
 #features3-y .btn {
   font-size: 18px;
 }
+#features3-y H4 {
+  color: #b70806;
+}
 #ext_menu-v .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -632,6 +635,7 @@ h6,
 #features3-11 H4 {
   font-size: 20px;
   font-family: 'Montserrat', sans-serif;
+  color: #b70806;
 }
 #features3-12 SPAN {
   font-family: 'Oswald', sans-serif;
@@ -644,6 +648,9 @@ h6,
 #features3-12 .btn {
   font-size: 17px;
   font-family: 'Oswald', sans-serif;
+}
+#features3-12 H4 {
+  color: #b70806;
 }
 #contacts2-x SPAN {
   font-size: 20px;
@@ -801,6 +808,7 @@ h6,
 #form1-15 .mbr-section-title {
   font-size: 36px;
   text-align: left;
+  color: #efefef;
 }
 #form1-15 STRONG {
   font-size: 16px;
