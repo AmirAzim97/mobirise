@@ -117,7 +117,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1627x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -141,6 +141,20 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/picture1-721x1100.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=B4t0Ec232I8",
+                "title": "DESSS.ERT",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -401,7 +415,7 @@
             {
               "authorName": "NAMA",
               "authorBio": "",
-              "text": "تسليم سريع ،دائمة، وليس من الصعب الحفاظ على لينة مل أكثر إلى الأمام",
+              "text": "<span style=\"font-style: normal;\"><b>تسليم سريع ،دائمة، وليس من الصعب الحفاظ على لينة مل أكثر إلى الأمام</b></span>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/dsc-86-106x160.jpg",
@@ -418,7 +432,7 @@
             {
               "authorName": "NAMA",
               "authorBio": "",
-              "text": "كعكة لذيذة، أفضل، مدهش لا ترغب في شراء مكان آخر ثم سأعيد الطلب",
+              "text": "<span style=\"font-style: normal;\"><b>كعكة لذيذة، أفضل، مدهش لا ترغب في شراء مكان آخر ثم سأعيد الطلب</b></span>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/adila-edit-copy-106x160.png",
@@ -435,7 +449,7 @@
             {
               "authorName": "NAMA",
               "authorBio": "",
-              "text": "<p>سعر جيد جدا، طعم لذيذ من ورخيصة الثمن، أفضل</p>",
+              "text": "<p><span style=\"font-style: normal;\"><b>سعر جيد جدا، طعم لذيذ من ورخيصة الثمن، أفضل</b></span></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/dsc-39-132x160.jpg",
@@ -454,7 +468,15 @@
             "Theme"
           ],
           "_name": "testimonials1",
-          "_anchor": "testimonials1-9"
+          "_anchor": "testimonials1-9",
+          "_styles": {
+            ".card-block P": {
+              "font-size": "19px"
+            },
+            ".card-block SPAN": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_params": {
@@ -620,7 +642,7 @@
           "title3": "كعكة محلاة مقلية",
           "subtitle3": "<span style=\"font-style: normal;\"><b>6 قطع&nbsp;<br>20 رينجيت</b></span>",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "الخبز مع الجبنة",
+          "title4": "Cream Puff",
           "subtitle4": "<span style=\"font-style: normal;\"><b>9 قطع</b><br><b>25 رينجيت</b></span>",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
@@ -668,8 +690,8 @@
             "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1341.jpg",
@@ -887,8 +909,8 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1008,8 +1030,8 @@
             "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1478,7 +1500,7 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "3",
@@ -1499,7 +1521,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dsc-25-600x810.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture1-1-600x915.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1510,7 +1532,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dsc-31-600x808.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture2-600x727.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1543,7 +1565,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dsc-44-600x789.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture5-600x789.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1561,19 +1583,19 @@
             }
           },
           "title1": "&nbsp;مديرة مسؤولي التسويق",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "subtitle1": "نور عقيله بنت مزنان",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "مديرة الحسلبات",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "نور النصوحا بنت عبد الرزاق",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "رئيسة المكتب التنفيذي",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "نور عين فرحانا بنت ياسيم",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "&nbsp;سكرتيرة&nbsp;",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle4": "عمير عظيم الدين بن جئ عزيز",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "مديرة الموارد البشرية",
-          "subtitle5": "Choose from the large selection of blocks",
+          "subtitle5": "نور سورايا بنت سانوسي",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
