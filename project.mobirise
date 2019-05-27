@@ -79,7 +79,7 @@
         },
         {
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
